@@ -1,4 +1,4 @@
-package com.example.zhy_slidingmenu;
+package com.henry.slidingmenu;
 
 import android.content.Context;
 import android.content.res.TypedArray;
@@ -8,7 +8,7 @@ import android.view.MotionEvent;
 import android.view.ViewGroup;
 import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
-
+import com.henry.slidingmenu.R;
 import com.nineoldandroids.view.ViewHelper;
 import com.zhy.utils.ScreenUtils;
 

@@ -1,9 +1,10 @@
-package com.example.zhy_slidingmenu;
+package com.henry.slidingmenu;
 
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
+import com.henry.slidingmenu.R;
 
 public class MainActivity extends Activity
 {
